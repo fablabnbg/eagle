@@ -1,0 +1,9 @@
+explode.ulp 
+
+This ULP can decompose schematic objects into pure graphics: It
+deletes all objects in the current schematics group (including their board
+counterparts) and replaces visible objects by a pure graphical representation
+(e.g., for documentation of external components)
+
+Uploaded by Andreas Weidner
+fom MPI fuer Gravitationsphysik Uploaded on 16.03.2012 
